@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  lightness: 0
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#C6C6C6'
+    - '#BC0000'
+    - '#5C5C5C'
+  rhythmicContrast: 1
+typography_spectrum: 0.5252951
+name: JOSH HARNEY PHOTOS
